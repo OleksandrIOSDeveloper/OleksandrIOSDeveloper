@@ -9,7 +9,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OleksandrIOSDeveloper?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>
    </p>
    
-  ![apple-logo-screensaver-posted-by-sarah-mercado](https://cdn.dribbble.com/users/5342679/screenshots/11825480/media/763edad7f5502aab0fd5bc7fcb65568b.gif)
+![apple-logo](https://user-images.githubusercontent.com/102597481/224768916-41c7958a-0a3d-4a95-8316-608b866ab022.gif)
   <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
