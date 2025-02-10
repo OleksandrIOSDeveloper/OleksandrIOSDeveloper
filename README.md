@@ -63,7 +63,14 @@
 
 ![ScreenInspect](https://github.com/OleksandrIOSDeveloper/ScreenInspect/blob/dev/ScreenInspect/ImagesReadmeGit/logoMain.png?raw=true)
 
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ 
+### [World_Books_Demo](https://github.com/OleksandrIOSDeveloper/World_Books_Demo)
 
+![World Books Demo](https://github.com/OleksandrIOSDeveloper/World_Books_Demo/blob/Develop/World%20News%20Demo/World%20News%20Demo/ScreenImageandGif/Web_Photo_Editor.jpg?raw=true)
+ 
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -71,7 +78,7 @@
 ### ✉️ Contacts
 
 [<img height=50 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com)  [<img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](www.linkedin.com/in/oleksandr-roditieliev-382742333)  [<img height=50 
 src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black"/>](https://t.me/Sashk_a01)
 
 <!--📏LINE-->
