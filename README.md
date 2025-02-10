@@ -78,7 +78,7 @@
 ### ✉️ Contacts
 
 [<img height=50 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](www.linkedin.com/in/oleksandr-roditieliev-382742333)  [<img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://linkedin.com/in/oleksandr-roditieliev-382742333)  [<img height=50 
 src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black"/>](https://t.me/Sashk_a01)
 
 <!--📏LINE-->
